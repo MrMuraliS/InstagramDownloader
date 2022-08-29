@@ -2,6 +2,8 @@
 
 ### **Note:** This is not a Web-Scraper project, We will be releasing webscraper project soon.
 
+#### _[Important Note](https://github.com/MrMuraliS/InstagramDownloader.git)_: Please do remember that this project is not fully tested, Testing is in progress. Please do report the issues if you get or identify any. Thanks. 
+
 At this moment, we have created this project for everyone to seamlessly download data from Instagram. 
 
 ## Step: 1
