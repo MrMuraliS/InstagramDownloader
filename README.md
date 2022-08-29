@@ -8,6 +8,18 @@ At this moment, we have created this project for everyone to seamlessly download
 
 _**FYI**_: You will have to run the [main.py](main.py) file but all the methods that we are running from main file are in [Instaloader.py](Instaloader.py) file. Please follow the below instructions to run the project. 
 
+
+#### Below are the options available:
+
+1. Download single post using Instagram Link.
+2. Download posts using hashtag.
+3. Download the stories of the required user.
+4. Download your saved posts.
+5. Download entire profile of required user.
+6. Download profile pic of required user.
+7. Exit.
+
+
 ## Step: 1
 
 Clone the project to your system. 
