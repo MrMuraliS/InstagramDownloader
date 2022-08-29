@@ -33,7 +33,7 @@ class InstaDownloader:
 
     def __init__(self):
         self.instance = instaloader.Instaloader(user_agent=get_user_agent())
-        self.instance.login(user="stfugtfout", passwd="Asdf@121")
+        self.instance.login(user="", passwd="")
         if os.path.exists("folderName"): shutil.rmtree("folderName")
         if os.path.exists('Stories'): shutil.rmtree("Stories")
 
