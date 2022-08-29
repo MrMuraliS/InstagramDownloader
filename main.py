@@ -41,7 +41,8 @@ class InstaDownloader:
         try:
             ua = UserAgent(verify_ssl=False)
             return ua.random
-        except Exception as e:
+        except Exception as error:
+            print(error)
             InstaDownloader.get_user_agent()
 
     def download_single_post(self, post_link: str):
