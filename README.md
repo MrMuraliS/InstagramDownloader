@@ -6,6 +6,8 @@
 
 At this moment, we have created this project for everyone to seamlessly download data from Instagram. 
 
+_**FYI**_: You will have to run the [main.py](main.py) file but all the methods that we are running from main file are in [Instaloader.py](Instaloader.py) file. Please follow the below instructions to run the project. 
+
 ## Step: 1
 
 Clone the project to your system. 
